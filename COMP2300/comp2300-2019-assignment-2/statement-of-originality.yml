@@ -1,0 +1,17 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp2300/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Base for this code was taken from assignment-1
+    url: https://gitlab.cecs.anu.edu.au/u6668002/comp2300-2019-assignment-1
+    licence: The author (me) of this code has given me permission to use this code in my submission.
+
+# sign *your* name and uid here
+name: Thomas Krnc
+uid: u6668002

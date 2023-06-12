@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="btnPlay_text">Play Game</string>
+    <string name="btnHelp_text">Help</string>
+    <string name="btnLeaderboard_text">Leaderboard</string>
+    <string name="btnGame_empty"></string>
+    <string name="playerOne_icon">X</string>
+    <string name="playerTwo_icon">O</string>
+    <string name="btnContinue_text">Continue</string>
+    <string name="btnAI_text">Play Against CPU</string>
+    <string name="txtHelpPlay_text">In order to start a game of Tic-Tac-Toe where both players are human, press the \"Play Game\" button that appears on the main menu. If you want to play a game against the CPU, then press the \"Play against CPU\" button.</string>
+    <string name="txtHelpGame">In order to make a move, you must press an empty space on the gameboard. If you are playing against the CPU, then the CPU will take its turn right after you have taken your turn. If someone wins the game, that players winning combo will be highlighted. After the game has ended (i.e. no more moves can be made) pressing the back button will take you back to the Main Menu.</string>
+</resources>
